@@ -13,9 +13,9 @@ I'm a passionate front-end developer with a knack for crafting beautiful and use
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## 🌱 Currently Learning
+- [Html]  
+- [CSS]  
 - [Javascript]  
-- []  
-- []  
 
 ## 📫 Let's Connect!
 Feel free to reach out:
